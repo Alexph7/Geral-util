@@ -104,8 +104,6 @@ savemedia.cc
 
 youtubemp4.site
 
-ytmp4.download
-
 linevideoconverter.party
 
 ======================BAIXAR VIDEOS DE PLAYLIST INTEIRA DO YOUTUBE ========
@@ -119,6 +117,8 @@ https://odownloader.com/ (Até 50 Videos)
 https://playlist-youtu.be/ (Até 50 videos, baixa em .zip)
 
 https://converterbear.co/playlist-converter.php(Apenas em mp3, mais de 64)
+
+https://u2b.fun/en/youtube-playlist-downloader/
 ===========================================   PORTAL ANVISA  ============================================
 
 http://portal.anvisa.gov.br/ //Portal para ver tudo sobre medicamentos, notificaçoes, preços, dosagem E etc.
