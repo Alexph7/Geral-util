@@ -66,3 +66,7 @@
 10. Plano de Energia
 	- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
 	
+11. Desativar Aplicativos em segundo plano
+	- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
+
+
