@@ -38,29 +38,37 @@
 		- Propriedades do Sistema - Proteção do Sistema - Configurar - Excluir.
 	- Limpar Cache Navegador
  		
-7. Desabilitar Programas Que Não Necessitam Iniciar ao Ligar Máquina.
-	- Gerenciador de Tarefas - Inicialização
-	
-8. Desabilitar Assistência Remoto
-	- Propriedades do Sistema - Proteção do Sistema - Remoto.
-	
-9. Desabilitar Efeitos Visuais
-	- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
-		-Deixar Marcado as Opções
-			- Abrir caixas de combinação
-			- Mostrar Conteúdo Da Janela ao Arrastar
-			- Mostrar Miniaturas ao invés de ícones
-			- Rolar Caixa De Lsitagem Suavemente
-			- Usar Fontes de Telas Com Cantos arredondados
+7. Configurações Do Sistema 
 
-10. Plano de Energia
-	- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
+	- Desativar aplicativos de inicialização
+		- Gerenciador de Tarefas - Inicialização
+		- ou Conigurões - Aplicativos - inicialização
+
+	- Desabilitar Assistência Remoto
+		- Propriedades do Sistema - Proteção do Sistema - Remoto.
+
+	- Desabilitar Efeitos Visuais
+		- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
+			-Deixar Marcado as Opções
+				- Abrir caixas de combinação
+				- Mostrar Conteúdo Da Janela ao Arrastar
+				- Mostrar Miniaturas ao invés de ícones
+				- Rolar Caixa De Lsitagem Suavemente
+				- Usar Fontes de Telas Com Cantos arredondados
+
+	- Ativar o Sensor de Armazenamento.
+		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários, além de contar com mais espaço de armazenamento, você não terá 		 	  problemas de desempenho ocasionados pela falta de espaço de disco
+			 -Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
+
+	- Desativar a opção “Dicas e Truques do Windows”
+		- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema em segundo plano enquanto você navega em seu computador. Essa função 		 	  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
+			-Configurações - Sistema - Armazenamento	
 	
-11. Desativar Aplicativos em segundo plano
-	- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
+	- Desativar Aplicativos em Segundo Plano
+		- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
+			-Desative os de Preferencia
 
-12. Ativar o Sensor de Armazenamento.
-	-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários, além de contar com mais espaço de armazenamento, você não terá 		 	  problemas de desempenho ocasionados pela falta de espaço de disco
-		-Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
+	- Plano de Energia
+		- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
+	
 
-13. 
