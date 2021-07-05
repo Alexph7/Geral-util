@@ -9,7 +9,7 @@
 		-painel de controle - desinstalar programa - microsoft edge
 		-tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos - Marcar Internet Explorer
 		-tecla windows+R - "digite Regedit" - clique em "Editar" - Pesquise Pelo Nome Do Programa
-			-Edge, Microsoft Edge, Microsoft\edge, Microsoft-edge
+			-Edge, Microsoft Edge, Microsoft\edge, Microsoft-edge, microsoftedge, edgeUpdate
 	
 3. Não Instalar Anti-Virus 
 	-O Proprio Sistema Ja Trabalha Com Windows Defender
