@@ -71,4 +71,6 @@
 	- Plano de Energia
 		- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
 	
-
+	- Desativar os Efeitos de transparência
+		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
+			- Configurações - Personalização - Cores - Deativar E
