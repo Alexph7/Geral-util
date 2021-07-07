@@ -68,3 +68,5 @@
 	- Desativar os Efeitos de transparência
 		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
 			- Configurações - Personalização - Cores - Desativar Efeito
+	- Desfragmentar disco rigido
+		-Pesquisar por desfragmentar - analisar o quanto está fragmentado - e desfragmentar - pode agendar também.
