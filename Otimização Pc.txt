@@ -2,45 +2,69 @@
 
 1. Na Bios,Escolha a Menor Opção Para Memoria Para Hardware. -Advanced - 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. No Momento o Edge é o Navegador Que Menos, Consome RAM.
 	-Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
-	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Não Instalar Anti-Virus 
 	-O Proprio Sistema Ja Trabalha Com Windows Defender
-	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 4. Desativar Serviços Desnecessarios Método 1.
 	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
 		- Marcar Internet Explorer
+		-------------------------------------------------------------
 		- Serviços Xps
+		-------------------------------------------------------------
 		- Ver Pdf Dedicado a Isso.
+		-------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. Desativar Serviços Desnecessarios Método 2.
 	- Tecla Windows - digite "Services.msc"		
+	
+		-------------------------------------------------------------
 		- Desativar Spooler de Impressão - Se Não Houver Impressora		
+		-------------------------------------------------------------
 		- Desativar Logon de rede (Netlogon) - Autentica a sua conta de usuário com um controlador de domínio. Isso é comum em empresas, mas o seu computador pessoal 			certamente não faz parte de um domínio, deve desativar.		
+		-------------------------------------------------------------
 		- Serviço de Suporte a Bluetooth - Se não ter Bluetooth no computador.		
+		-------------------------------------------------------------
 		- Desativar Logon secundário - Permite executar tarefas administrativas como uma conta padrão utilizando a opção “Executar como. Se você possui somente uma conta 		   em seu PC, você não precisa desse recurso e pode desativá-lo.
+		-------------------------------------------------------------
 		- Desativar Cartão Inteligente	
+		-------------------------------------------------------------
 		- Desativar Configuração da Área de Trabalho Remota
+		-------------------------------------------------------------
 		- Desative Fax
+		-------------------------------------------------------------
 		- Desativar Propagação de certificado 
 		Se você não estiver usando SmartCards, desative-o.		
-		
+		-------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
 6. Limpezas
 	- Limpeza de Disco
 	- Limpar Pontos de Restauração Antigos ou Desnecessários
 		- Propriedades do Sistema - Proteção do Sistema - Configurar - Excluir.
+	-------------------------------------------------------------
 	- Limpar Cache Navegador
- 		
+	-------------------------------------------------------------
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
 7. Configurações Do Sistema 
 
 	- Desativar aplicativos de inicialização
 		- Gerenciador de Tarefas - Inicialização
 		- ou Conigurões - Aplicativos - inicialização
-
+	-------------------------------------------------------------
 	- Desabilitar Assistência Remoto
 		- Propriedades do Sistema - Proteção do Sistema - Remoto.
-
+	-------------------------------------------------------------
 	- Desabilitar Efeitos Visuais
 		- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
 			-Deixar Marcado as Opções
@@ -49,24 +73,28 @@
 				- Mostrar Miniaturas ao invés de ícones
 				- Rolar Caixa De Lsitagem Suavemente
 				- Usar Fontes de Telas Com Cantos arredondados
-
+	-------------------------------------------------------------
 	- Ativar o Sensor de Armazenamento.
 		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários, além de contar com mais espaço de armazenamento, você não terá 		 	  problemas de desempenho ocasionados pela falta de espaço de disco
 			 -Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
-
+	-------------------------------------------------------------
 	- Desativar a opção “Dicas e Truques do Windows”
 		- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema em segundo plano enquanto você navega em seu computador. Essa função 		 	  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
 			-Configurações - Sistema - Armazenamento	
-	
+	-------------------------------------------------------------
 	- Desativar Aplicativos em Segundo Plano
 		- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
 			-Desative os de Preferencia
-
+	-------------------------------------------------------------
 	- Plano de Energia
 		- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
-	
+	-------------------------------------------------------------
 	- Desativar os Efeitos de transparência
 		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
 			- Configurações - Personalização - Cores - Desativar Efeito
+	-------------------------------------------------------------
 	- Desfragmentar disco rigido
 		-Pesquisar por desfragmentar - analisar o quanto está fragmentado - e desfragmentar - pode agendar também.
+	-------------------------------------------------------------
+	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
