@@ -1,6 +1,6 @@
 							Otimização Do Pc
 
-1. Na Bios,Escolha a Menor Opção Para Memoria Para Hardware.
+1. Na Bios,Escolha a Menor Opção Para Memoria Para Hardware. -Advanced - 
 
 2. No Momento o Edge é o Navegador Que Menos, Consome RAM.
 	-Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
