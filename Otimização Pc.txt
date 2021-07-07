@@ -2,14 +2,8 @@
 
 1. Na Bios,Escolha a Menor Opção Para Memoria Para Hardware.
 
-2. Troque o Navegador Por Navegador Opera.
-	-Instale Uma Extensão de tradutor e baixar videos do youtube. no Opera
-	
-	-Desative o navegador padrão 
-		-painel de controle - desinstalar programa - microsoft edge
-		-tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos - Marcar Internet Explorer
-		-tecla windows+R - "digite Regedit" - clique em "Editar" - Pesquise Pelo Nome Do Programa
-			-Edge, Microsoft Edge, Microsoft\edge, Microsoft-edge, microsoftedge, edgeUpdate
+2. No Momento o Edge é o Navegador Que Menos, Consome RAM.
+	-Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
 	
 3. Não Instalar Anti-Virus 
 	-O Proprio Sistema Ja Trabalha Com Windows Defender
