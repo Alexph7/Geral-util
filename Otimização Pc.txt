@@ -56,7 +56,7 @@
 		Se você não estiver usando SmartCards, desative-o.		
 		-------------------------------------------------------------
 		- Desativar xbox acessory
-		caso não use serviços do xbox
+		  caso não use serviços do xbox
 		-------------------------------------------------------------
 		- Desativar windows update 
 		  caso não queira atuaizações
@@ -70,9 +70,20 @@
 		- Desative este serviço apenas se não quiser que o SO faça 
 		  atualizações automáticas.
 		-------------------------------------------------------------
+		- Desativar Serviço de Instalação da microsoft store
+		  caso não baixe apps da loja
 		-------------------------------------------------------------
+		- Desativar Serviço de enumeração de dispositivos de cartões inteligentes
 		-------------------------------------------------------------
+		- Desativar Serviço de rede Xbox Live
+		  caso não use serviços do xbox
 		-------------------------------------------------------------
+		- Serviço de Relatórios de Erros do Windows
+		  encaminha os erros encontrados no PC para a empresa.
+		-------------------------------------------------------------
+		- Desativar SysMain
+		- O Superfetch ou SysMain é um serviço que roda em segundo plano 
+		  no Windows para monitorar as aplicações mais utilizadas no sistema.
 		-------------------------------------------------------------
 		-------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
