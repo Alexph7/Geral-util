@@ -9,6 +9,9 @@
 	-------------------------------------------------------------------
 	-Sicronizar a Conta Com as Configuraões feitas Para Nao ficar Configurando
 	toda vez que instalar.
+	-------------------------------------------------------------------
+	-bloquear cookies de terceiros
+	-------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,7 +22,6 @@
 4. Desativar Serviços Desnecessarios Método 1.
 	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
 		- Marcar Internet Explorer
-		-------------------------------------------------------------
 		- Serviços Xps
 		-------------------------------------------------------------
 		- Ver Pdf Dedicado a Isso.
