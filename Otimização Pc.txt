@@ -25,7 +25,7 @@
 	- Abrir as configurações do proxy do Computador
 		- Desativar opção "detectar Configurações automaticamente" - impede q o navegador fique detectando configurações toda vez q é aberto
 		- Se possivel desmarcar a opção "Usar script de Instalação"
-		
+	- Manter Navegador Atualizado
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. - Configurar Privacidade
 	- Configurações - privacidade
