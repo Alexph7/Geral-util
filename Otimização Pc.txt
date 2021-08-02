@@ -207,8 +207,18 @@
         3. Abrir "Regedit" e pesquisar pelo nome do Programa e apagar pelos registros
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. Deixar pc rapido
-	1. Abrir regedit - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
+9. Otimização Por Regedit
+	1. Aumentar a velocidade de arranque desfragmentando os ficheiros de arranque:
+		Abrir regedit - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
 		agora com o botao direito criar novo valor de cadeia de caracteres, nomeie como "ENABLE" sem aspas e coloque Y como valor
-	2. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\currentVersion\explorer
+	
+	2. Arranque mais rápido (tornar o serviço "Prefetcher" melhor):
+		HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SessionManager\MemoryManagement\PrefetchParameters
+		depois descobrir o valor "EnablePrefetcher" e colocá-lo a 5
+		
+	3. Aumentar ligeiramente a velocidade de arranque desactivando o ecrã de arranque do Windows:
+	Iniciar → Executar → msconfig
+	e na guia Boot.ini seleccionar as opções "NoGuiBoot" e "SOS"
+	
+	10. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\currentVersion\explorer
 		criar "novo" - "valor 32bits" - definir valor 1.
