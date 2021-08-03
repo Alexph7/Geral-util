@@ -41,43 +41,9 @@
         5 Desativar Aplicativos em Segundo Plano
             - Menu Iniciar - Configuraçõs - configurações de Privacidade - Aplicativos em Segundo Plano e desative os desnecessário.
 
-
-
-
-
-
-
-
-
-	- apagar chaves no registro de apps desinstalados
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-3. - Configurar Privacidade
-	- Configurações - privacidade
-		- Item Geral
-		- Personalização de escrita a mão
-		- Diagnostico e comentarios
-			- Desativar tudo ou quase tudo
-		- Historico de atividade
-		- Configurar Permissoes de aplicativo
-	-------------------------------------------------------------
+	6 Desativar Serviços em Segundo Plano
+          - Tecla Windows + R - digite "Services.msc"		
 	
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
-4. Desativar Serviços Desnecessarios Método 1.
-	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
-		- Marcar Internet Explorer
-		- Serviços Xps
-		-------------------------------------------------------------
-		- Ver Pdf Dedicado a Isso.
-		-------------------------------------------------------------
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-5. Desativar Serviços Desnecessarios Método 2.
-	- Tecla Windows - digite "Services.msc"		
-	
-		-------------------------------------------------------------
 		- Desativar Spooler de Impressão - Se Não Houver Impressora		
 		-------------------------------------------------------------
 		- Desativar Logon de rede (Netlogon) - Autentica a sua conta de 
@@ -144,12 +110,44 @@
 		  outra opção similar a anterior
 		-------------------------------------------------------------
 		- Desativar Microsoft edge elevation
+
+
+	7 Desabilitar Efeitos Visuais
+		- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
+			
+                      -Deixar Marcados apenas as Opções
+				- Abrir caixas de combinação
+				- Mostrar Conteúdo Da Janela ao Arrastar
+				- Mostrar Miniaturas ao invés de ícones
+				- Rolar Caixa De Lsitagem Suavemente
+				- Usar Fontes de Telas Com Cantos arredondados
+
+
+
+
+
+	- apagar chaves no registro de apps desinstalados
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. - Configurar Privacidade
+	- Configurações - privacidade
+		- Item Geral
+		- Personalização de escrita a mão
+		- Diagnostico e comentarios
+			- Desativar tudo ou quase tudo
+		- Historico de atividade
+		- Configurar Permissoes de aplicativo
+	-------------------------------------------------------------
+	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
+4. Desativar Serviços Desnecessarios Método 1.
+	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
+		- Marcar Internet Explorer
+		- Serviços Xps
 		-------------------------------------------------------------
-		- 
-		-------------------------------------------------------------
-		-------------------------------------------------------------
-		-------------------------------------------------------------
-		-------------------------------------------------------------
+		- Ver Pdf Dedicado a Isso.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
 6. Limpezas 
 	- Limpeza de Disco
@@ -174,15 +172,7 @@
 	- Desabilitar Assistência Remoto
 		- Propriedades do Sistema - Proteção do Sistema - Remoto.
 	-------------------------------------------------------------
-	- Desabilitar Efeitos Visuais
-		- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
-			-Deixar Marcado as Opções
-				- Abrir caixas de combinação
-				- Mostrar Conteúdo Da Janela ao Arrastar
-				- Mostrar Miniaturas ao invés de ícones
-				- Rolar Caixa De Lsitagem Suavemente
-				- Usar Fontes de Telas Com Cantos arredondados
-	-------------------------------------------------------------
+--------------------------
 	- Ativar o Sensor de Armazenamento.
 		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários,
 		 além de contar com mais espaço de armazenamento, você não terá problemas de desempenho 
