@@ -14,6 +14,8 @@
 	      toda vez que instalar.
 
 	    - bloquear cookies de terceiros
+            
+            - Não abrir muitas abas desnecessáriamente
 
        	    - Desativar os seguintes serviços em - Configurações - Sistema
 		- Impulso de inicialização
@@ -36,7 +38,8 @@
             - Se a memória ram for pouca, abrir 1 ou 2 software de cada vez
 
 
-        5 
+        5 Desativar Aplicativos em Segundo Plano
+            - Menu Iniciar - Configuraçõs - configurações de Privacidade - Aplicativos em Segundo Plano e desative os desnecessário.
 
 
 
@@ -51,7 +54,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. - Configurar Privacidade
 	- Configurações - privacidade
-		- Desativar Aplicativos em Segundo Plano
 		- Item Geral
 		- Personalização de escrita a mão
 		- Diagnostico e comentarios
@@ -164,7 +166,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
 7. Configurações Do Sistema 
 
-	- 
 	-------------------------------------------------------------
 	- Desativar o controle de conta de usuário no Windows 10
 	- Digitar "uac" na pesquisa e marcar, nao receber notificação
