@@ -1,32 +1,54 @@
 							Otimização Do Pc
 
-1. Inicio
-	- Na Bios, Escolha a Menor Opção Para Memoria. -Advanced - Memory size
-	------------------------------------------------------------------------
-	- Fazer backup registros regedit
-		-windows + R - digitar regedit - arquivos - exportar
-		-Subir Backups Para Nuvem - google drive
-	------------------------------------------------------------------------
-	- Desinstalar Aplicativos de Fabrica e Suas Chaves
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. No Momento o Edge é o Navegador Que Menos Consome RAM.
-	-Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
-	-------------------------------------------------------------------
-	-Sicronizar a Conta Com as Configuraões feitas Para Nao ficar Configurando
-	toda vez que instalar.
-	-------------------------------------------------------------------
-	-bloquear cookies de terceiros
-	-------------------------------------------------------------------
-	-Desativar os seguintes serviços em - Configurações - Sistema
+1. Inicio
+        GANHA OU OTIMIZA MEMORIA RAM
+
+	1 Na Bios, Escolha a Menor Opção Para Memoria. -Advanced - Memory size
+
+
+        2 verificar qual o navegador mais leve (no momento o edge consome menos que os outros *250mb~)
+            - Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
+
+	    - guardar as Configuraões da conta feitas Para Nao ficar Configurando
+	      toda vez que instalar.
+
+	    - bloquear cookies de terceiros
+
+       	    - Desativar os seguintes serviços em - Configurações - Sistema
 		- Impulso de inicialização
 		- Continuar executando extensoes de aplicativos em segundo plano
 		- usar acelerador de hardware quando disponivel
-	- Abrir as configurações do proxy do Computador
+	    
+            - Abrir as configurações do proxy do Computador
 		- Desativar opção "detectar Configurações automaticamente" - impede q o navegador fique detectando configurações toda vez q é aberto
 		- Se possivel desmarcar a opção "Usar script de Instalação"
-	- Manter Navegador Atualizado
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	    - Manter Navegador Atualizado
+
+
+        3 Desativar aplicativos desnecessarios que iniciam junto com o sistema
+	    - abrir Gerenciador de Tarefas - Inicialização
+	    - ou Configurões - Aplicativos - inicialização
+
+
+        4 Apagar Softwares Desnecessarios
+            - Usar Gerenciador de tarefas para ver softwares que Consomem muita ram e ver se existe alternativas do Soft.
+            - Se a memória ram for pouca, abrir 1 ou 2 software de cada vez
+
+
+        5 
+
+
+
+
+
+
+
+
+
+	- apagar chaves no registro de apps desinstalados
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. - Configurar Privacidade
 	- Configurações - privacidade
 		- Desativar Aplicativos em Segundo Plano
@@ -132,7 +154,7 @@
 	- Limpar Pontos de Restauração Antigos ou Desnecessários
 		- Propriedades do Sistema - Proteção do Sistema - Configurar - Excluir.
 	-------------------------------------------------------------
-	- Limpar Cache Navegador
+	- Limpar Cache Navegador (apenas quando estiver alto ou passar muito tempo)
 	-------------------------------------------------------------
 	- limpar arquivos temporarios
 		tecla windows + R, digitar "Temp" e excluir tudo na pasta
@@ -142,9 +164,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
 7. Configurações Do Sistema 
 
-	- Desativar aplicativos de inicialização
-		- Gerenciador de Tarefas - Inicialização
-		- ou Configurões - Aplicativos - inicialização
+	- 
 	-------------------------------------------------------------
 	- Desativar o controle de conta de usuário no Windows 10
 	- Digitar "uac" na pesquisa e marcar, nao receber notificação
