@@ -41,7 +41,7 @@
         5 Desativar Aplicativos em Segundo Plano
             - Menu Iniciar - Configuraçõs - configurações de Privacidade - Aplicativos em Segundo Plano e desative os desnecessário.
 
-	6 Desativar Serviços em Segundo Plano
+	6 (estudar se ganha desempenho)Desativar Serviços em Segundo Plano
           - Tecla Windows + R - digite "Services.msc"		
 	
 		- Desativar Spooler de Impressão - Se Não Houver Impressora		
@@ -122,11 +122,71 @@
 				- Rolar Caixa De Lsitagem Suavemente
 				- Usar Fontes de Telas Com Cantos arredondados
 
+	8. Configurações Do Sistema 
+
+		- Desabilitar Assistência Remoto
+		- Propriedades do Sistema - Proteção do Sistema - Remoto.
+
+
+		- Ativar o Sensor de Armazenamento.
+			-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários,
+		 	 além de contar com mais espaço de armazenamento, você não terá problemas de desempenho 
+		 	 ocasionados pela falta de espaço de disco
+				-Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
+
+
+		- Desativar a opção “Dicas e Truques do Windows”
+			- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema 
+		  	 em segundo plano enquanto você navega em seu computador. Essa função
+		  	 Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
+				-Configurações - Sistema - Notificações e ações
+
+
+		- Desfragmentar disco rigido
+			-Pesquisar por desfragmentar - analisar o quanto está fragmentado - e desfragmentar - pode agendar também.
+	
+	
+		- Corrigir erros na unidade C
+			-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
+	
+	
+		- Salvar todas as Configurações em backup da imagem do windows.
+			-Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
+
+
+		- Plano de Energia
+			- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
+	
+
+
+	 - Desativar os Efeitos de transparência
+		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
+			- Configurações - Personalização - Cores - Desativar Efeito
+	
+
+	10 Excluir Arquivos
+		1. Desinstalar Normalmente Pelo Painel de Controle
+		2. Abrir disco local que carne exibir -mostrar arquivos ocultos- Deletar Arquivos das Pasta
+                	ProgramData - apagar programas excluídos ou indesejados.
+	          	ProgramData - Packages - excluir pastas indesejadas
+                  	ProgramData - Microsoft - excluir pastas indesejados
+                  	Usuários -usuário atual-app data - local - packages - excluir pastas indesejadas
+                  	Usuários -usuário atual-app data - localLow - excluir pastas indesejadas
+                  	Usuários -usuário atual-app data - Roaming - excluir pastas indesejadas
+                  	Arquivos de Programas - excluir pastas indesejadas
+                  	Arquivos de programas - Windowsapps - excluir pastas indesejadas
+                  	Arquivos de programas (x86) - excluir pastas indesejadas
 
 
 
 
-	- apagar chaves no registro de apps desinstalados
+
+
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. - Configurar Privacidade
@@ -137,10 +197,8 @@
 			- Desativar tudo ou quase tudo
 		- Historico de atividade
 		- Configurar Permissoes de aplicativo
-	-------------------------------------------------------------
 	
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
+	
 4. Desativar Serviços Desnecessarios Método 1.
 	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
 		- Marcar Internet Explorer
@@ -162,62 +220,9 @@
 		tecla windows + R, digitar "%Temp%" e excluir tudo na pasta
 		tecla windows + R, digitar "Recent" e excluir tudo na pasta
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
-7. Configurações Do Sistema 
-
-	-------------------------------------------------------------
-	- Desativar o controle de conta de usuário no Windows 10
-	- Digitar "uac" na pesquisa e marcar, nao receber notificação
-	  Ao desativar o recurso você não receberá notificações sobre alterações no sistema.
-	-------------------------------------------------------------
-	- Desabilitar Assistência Remoto
-		- Propriedades do Sistema - Proteção do Sistema - Remoto.
-	-------------------------------------------------------------
---------------------------
-	- Ativar o Sensor de Armazenamento.
-		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários,
-		 além de contar com mais espaço de armazenamento, você não terá problemas de desempenho 
-		 ocasionados pela falta de espaço de disco
-			 -Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
-	-------------------------------------------------------------
-	- Desativar a opção “Dicas e Truques do Windows”
-		- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema 
-		  em segundo plano enquanto você navega em seu computador. Essa função
-		  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
-			-Configurações - Sistema - Notificações e ações
-	-------------------------------------------------------------
-	- Plano de Energia
-		- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
-	-------------------------------------------------------------
-	- Desativar os Efeitos de transparência
-		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
-			- Configurações - Personalização - Cores - Desativar Efeito
-	-------------------------------------------------------------
-	- Desfragmentar disco rigido
-		-Pesquisar por desfragmentar - analisar o quanto está fragmentado - e desfragmentar - pode agendar também.
-	-------------------------------------------------------------
-	- Corrigir erros na unidade C
-		-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
-	-------------------------------------------------------------
-	- Salvar todas as Configurações em backup da imagem do windows.
-		-Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
 	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-8. Excluir Arquivos Sem Deixar Registros e Rastros
-	1. Desinstalar Normalmente Pelo Painel de Controle
-	2. Abrir disco local que carne exibir -mostrar arquivos ocultos- Deletar Arquivos das Pasta
-                  ProgramData - apagar programas excluídos ou indesejados.
-	          ProgramData - Packages - excluir pastas indesejadas
-                  ProgramData - Microsoft - excluir pastas indesejados
-                  Usuários -usuário atual-app data - local - packages - excluir pastas indesejadas
-                  Usuários -usuário atual-app data - localLow - excluir pastas indesejadas
-                  Usuários -usuário atual-app data - Roaming - excluir pastas indesejadas
-                  Arquivos de Programas - excluir pastas indesejadas
-                  Arquivos de programas - Windowsapps - excluir pastas indesejadas
-                  Arquivos de programas (x86) - excluir pastas indesejadas
-        3. Abrir "Regedit" e pesquisar pelo nome do Programa e apagar pelos registros
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+        
 9. Otimização Por Regedit
 	1. Aumentar a velocidade de arranque desfragmentando os ficheiros de arranque:
 		Abrir regedit - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
