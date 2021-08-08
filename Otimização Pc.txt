@@ -111,7 +111,7 @@
 		-------------------------------------------------------------
 		- Desativar Microsoft edge elevation
 
-
+	
 	7 Desabilitar Efeitos Visuais
 		- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
 			
@@ -122,7 +122,7 @@
 				- Rolar Caixa De Lsitagem Suavemente
 				- Usar Fontes de Telas Com Cantos arredondados
 
-	8. Configurações Do Sistema 
+	8 Configurações Do Sistema 
 
 		- Desabilitar Assistência Remoto
 		- Propriedades do Sistema - Proteção do Sistema - Remoto.
@@ -150,7 +150,7 @@
 			-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
 	
 	
-		- Salvar todas as Configurações em backup da imagem do windows.
+		- Salvar todas as Configurações em backup da imagem do windows em PenDrive
 			-Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
 
 
@@ -176,6 +176,14 @@
                   	Arquivos de Programas - excluir pastas indesejadas
                   	Arquivos de programas - Windowsapps - excluir pastas indesejadas
                   	Arquivos de programas (x86) - excluir pastas indesejadas
+	
+	
+	11 Desativar Serviços Desnecessarios Método 1.
+	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
+		- Marcar Internet Explorer
+		- Serviços Xps
+		-------------------------------------------------------------
+		- Ver Pdf Dedicado a Isso.
 
 
 
@@ -199,12 +207,6 @@
 		- Configurar Permissoes de aplicativo
 	
 	
-4. Desativar Serviços Desnecessarios Método 1.
-	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
-		- Marcar Internet Explorer
-		- Serviços Xps
-		-------------------------------------------------------------
-		- Ver Pdf Dedicado a Isso.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
 6. Limpezas 
@@ -219,22 +221,13 @@
 		tecla windows + R, digitar "Prefetch" e excluir tudo na pasta
 		tecla windows + R, digitar "%Temp%" e excluir tudo na pasta
 		tecla windows + R, digitar "Recent" e excluir tudo na pasta
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
+Comandos Gerais Pelo Registro do Windows
+
+
+	1.
+	
+	5. 
 	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         
-9. Otimização Por Regedit
-	1. Aumentar a velocidade de arranque desfragmentando os ficheiros de arranque:
-		Abrir regedit - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
-		agora com o botao direito criar novo valor de cadeia de caracteres, nomeie como "ENABLE" sem aspas e coloque Y como valor
-	
-	2. Arranque mais rápido (tornar o serviço "Prefetcher" melhor):
-		HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SessionManager\MemoryManagement\PrefetchParameters
-		depois descobrir o valor "EnablePrefetcher" e colocá-lo a 5
-		
-	3. Aumentar ligeiramente a velocidade de arranque desactivando o ecrã de arranque do Windows:
-	Iniciar → Executar → msconfig
-	e na guia Boot.ini seleccionar as opções "NoGuiBoot" e "SOS"
-	
-	10. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\currentVersion\explorer
-		criar "novo" - "valor 32bits" - definir valor 1.
