@@ -168,7 +168,7 @@
 	- (causa Problema Disco 100) Desativar ou personalizar agendamento do windows defender para fazer varredura para semanalmente ou mensalmente
 		- buscar agendador de tarefas "win+R digite taskschd.msc" - microsoft - windows - windows defender - 2 clicks em windows defender scheduled scan - desmarcar "exeutar com privilegios mais altos" - condiçoes - desmarcar todas opçoes ou personalizar agendamento em ociosidade 30 minutos e abaixo 2 horas
 		- Repetir processo em "windows defender verification"
-		
+		- para personalizar agendamento - click em disparadores e click em novo
 		
 		
 	10 Excluir Arquivos
