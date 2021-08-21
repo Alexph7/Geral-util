@@ -2,8 +2,6 @@
 
 
 1. Inicio
-        GANHA OU OTIMIZA MEMORIA RAM
-
 	1 Na Bios, Escolha a Menor Opção Para Memoria. -Advanced - Memory size
 
 
@@ -163,7 +161,16 @@
 		- São elementos visuais responsáveis pela composição de cores e efeito "Vidro" em sua Área de trabalho. Esse Efeito Consome Memória de Processamento em seu 			  Sistema.
 			- Configurações - Personalização - Cores - Desativar Efeito
 	
+	
+	- desativar o agendamento de Analise de disco - unidade C - propriedades - segurança - desativar agendamento
 
+
+	- (causa Problema Disco 100) Desativar ou personalizar agendamento do windows defender para fazer varredura para semanalmente ou mensalmente
+		- buscar agendador de tarefas "win+R digite taskschd.msc" - microsoft - windows - windows defender - 2 clicks em windows defender scheduled scan - desmarcar "exeutar com privilegios mais altos" - condiçoes - desmarcar todas opçoes ou personalizar agendamento em ociosidade 30 minutos e abaixo 2 horas
+		- Repetir processo em "windows defender verification"
+		
+		
+		
 	10 Excluir Arquivos
 		1. Desinstalar Normalmente Pelo Painel de Controle
 		2. Abrir disco local que carne exibir -mostrar arquivos ocultos- Deletar Arquivos das Pasta
